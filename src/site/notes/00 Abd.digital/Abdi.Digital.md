@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/00-abd-digital/abdi-digital/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/00-abd-digital/abdi-digital/","tags":["gardenEntry"],"created":"2025-05-14T10:38:45.884+05:30"}
 ---
 
 Hey
 welcome to the digital site (part of me yeahhhhhhhhhhhhh)
+
+
+
 
 > [!NOTE]
 > let me test some of the following things how does they look a like..
