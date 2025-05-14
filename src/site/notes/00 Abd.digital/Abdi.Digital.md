@@ -8,10 +8,6 @@ welcome to the digital site (part of me yeahhhhhhhhhhhhh)
 
 
 
-> [!NOTE]
-> let me test some of the following things how does they look a like..
-
-
 guess what
 this is be ing <span style="background:#b1ffff">craaaaaaaaaazy</span>
 
