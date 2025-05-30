@@ -3,6 +3,7 @@
 ---
 
 <font color="#fdeada">**Soo Dhawaada Saaxibayaal!**</font>
+Soo fiiri Discord [Serverka](https://discord.gg/Ba9SbYD2)
 
 Ku soo dhawoow boggeygan shakhsiyeed! Waa farxad weyn iyo qiimo gaar ah inaad waqtigaaga qaaliga ah siisay booqashada meeshan oo aan ku wadaagi doono waxyaabo aniga ii xiiso geliya, kuna rajo weynahay inay adigana ku anfici doonaan.
 
@@ -23,7 +24,7 @@ Magacaygu waa <font color="#f79646">Abdishakur</font>, waxaan ahay qof si weyn u
 
 Hadafkaygu waa inaan tusaale u noqdo bulshada, aqoontaydana aan la wadaago ardayda kale, xirfadleyda, iyo qof kasta oo xiiseeya horumarka ka socda dunidan casriga ah ee tiknoolajiyaddu hoggaaminayso. Waxaan aaminsanahay in aqoon-wadaaggu uu yahay *furaha koboca iyo horumarka.*
 
-Fadlan si xor ah u daraasee waxyaabaha ku jira bogga. Fikradihiina iyo aragtiyihiina waa muhiim, ee ha ilaawin inaad  igala soo xiriirtaan LinkedIn profile kayga ah :- [[https://www.linkedin.com/in/abdishakursm\|https://www.linkedin.com/in/abdishakursm]]
+Fadlan si xor ah u daraasee waxyaabaha ku jira bogga. Fikradihiina iyo aragtiyihiina waa muhiim, ee ha ilaawin inaad  igala soo xiriirtaan LinkedIn profile kayga ah :- [LinkedIn](https://www.linkedin.com/in/abdishakursm) 
 
 Waxaan rajaynayaa inaad ka heli doontaan wax idin anfaca oo idin dhiirigeliya.
 
