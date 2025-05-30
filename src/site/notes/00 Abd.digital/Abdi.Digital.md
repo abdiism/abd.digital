@@ -8,7 +8,7 @@ Ku soo dhawoow boggeygan shakhsiyeed! Waa farxad weyn iyo qiimo gaar ah inaad wa
 
 Magacaygu waa <font color="#f79646">Abdishakur</font>, waxaan ahay qof si weyn u daneeya isbeddellada xawliga ah ee ka socda dunida tiknoolajiyadda, gaar ahaan dhinacyada <font color="#ffff00">Data Science</font>, Garaadka Macmalka ah (<font color="#ffff00">Artificial Intelligence</font>)**, iyo <font color="#ffff00">Machine Learning</font>. Boggan waa madal aan ku soo gudbin doono geeddi-socodkayga barasho, fikradahayga, iyo wixii cusub ee aan ka barto ama aan kala kulmo saaxadan xiisaha badan.
 
-<span style="background:#affad1">Maxaad Ka Filan Kartaa Boggan/Site-kan?</span>
+<span style="background:#ff4d4f">Maxaad Ka Filan Kartaa Boggan/Site-kan?</span>
 
 - **Qoraalladayda iyo Fikradahayga (Notes):** Waxaan si joogto ah ula wadaagi doonaa qoraallo iyo falanqayn ku saabsan mowduucyo kala duwan oo la xiriira Data science, AI, ML, iyo guud ahaan Cilmiga Kumbuyuutarka (CSE). Kuwaas oo noqon kara casharro aan bartay, caqabado aan la kulmay, ama aragtiyo cusub oo aan ka helay.
     
@@ -19,7 +19,7 @@ Magacaygu waa <font color="#f79646">Abdishakur</font>, waxaan ahay qof si weyn u
 - **Madal Wadaag iyo Is-dhaafsi:** In kasta oo kani yahay bog shakhsiyeed, waxaan ku dhiirigelinayaa isdhaafsiga fikradaha. Su'aalahaaga, faallooyinkaaga, iyo aragtiyahaagu waa kuwo qiimo weyn leh.
     
 
-<span style="background:#affad1">**Hamiga Guud:**</span>
+<span style="background:#ff4d4f">Hamiga Guud:</span>
 
 Hadafkaygu waa inaan tusaale u noqdo bulshada, aqoontaydana aan la wadaago ardayda kale, xirfadleyda, iyo qof kasta oo xiiseeya horumarka ka socda dunidan casriga ah ee tiknoolajiyaddu hoggaaminayso. Waxaan aaminsanahay in aqoon-wadaaggu uu yahay *furaha koboca iyo horumarka.*
 
@@ -27,7 +27,7 @@ Fadlan si xor ah u daraasee waxyaabaha ku jira bogga. Fikradihiina iyo aragtiyih
 
 Waxaan rajaynayaa inaad ka heli doontaan wax idin anfaca oo idin dhiirigeliya.
 
-==Mahadsanidiin booqashadiina!==
+<font color="#fdeada">Waad ku mahadsantahy booqashadaada saaxib!</font>
 
 
 ![Pasted image 20250502122346.png](/img/user/Pasted%20image%2020250502122346.png)
