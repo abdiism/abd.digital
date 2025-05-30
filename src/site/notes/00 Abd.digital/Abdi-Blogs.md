@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/00-abd-digital/abdi-blogs/","tags":["gardenEntry"],"created":"2025-05-14T10:38:45.884+05:30"}
 ---
 
-**Soo Dhawaada Saaxibayaal!**
+<font color="#fdeada">**Soo Dhawaada Saaxibayaal!**</font>
 
 Ku soo dhawoow boggeygan shakhsiyeed! Waa farxad weyn iyo qiimo gaar ah inaad waqtigaaga qaaliga ah siisay booqashada meeshan oo aan ku wadaagi doono waxyaabo aniga ii xiiso geliya, kuna rajo weynahay inay adigana ku anfici doonaan.
 
@@ -10,20 +10,20 @@ Magacaygu waa <font color="#f79646">Abdishakur</font>, waxaan ahay qof si weyn u
 
 <span style="background:#ff4d4f">Maxaad Ka Filan Kartaa Boggan/Site-kan?</span>
 
-- **Qoraalladayda iyo Fikradahayga (Notes):** Waxaan si joogto ah ula wadaagi doonaa qoraallo iyo falanqayn ku saabsan mowduucyo kala duwan oo la xiriira Data science, AI, ML, iyo guud ahaan Cilmiga Kumbuyuutarka (CSE). Kuwaas oo noqon kara casharro aan bartay, caqabado aan la kulmay, ama aragtiyo cusub oo aan ka helay.
+- **Qoraalladayda iyo Fikradahayga (Notes):** Waxaan si joogto ah ula wadaagi doonaa qoraallo iyo falanqayn ku saabsan mowduucyo kala duwan oo la xiriira <font color="#fac08f">Data science, AI, ML, iyo guud ahaan Cilmiga Kumbuyuutarka (CSE).</font>Kuwaas oo noqon kara casharro aan bartay, caqabado aan la kulmay, ama aragtiyo cusub oo aan ka helay.
     
-- **Warbixinno Toos ah (Live Updates):** Mararka qaarkood, waxaan si toos ah idiinla wadaagi doonaa warbixinno ku saabsan mashaariic ama projects  aan ka shaqaynayo, aqoon-isweydaarsiyo aan ka qaybgalo, ama wixii kale ee cusub oo aan dareemo inay mudan yihiin in la idinla wadaago xilligeeda.
+- **Warbixinno Toos ah (Live Updates):** Mararka qaarkood, waxaan si toos ah idiinla wadaagi doonaa warbixinno ku saabsan <font color="#fac08f">mashaariic ama projects  aan ka shaqaynayo,</font> aqoon-isweydaarsiyo aan ka qaybgalo, ama wixii kale ee cusub oo aan dareemo inay mudan yihiin in la idinla wadaago xilligeeda.
     
-- **Kheyraad(resources) iyo Tilmaamo:** Intii karaankeyga ah, waxaan isku dayi doonaa inaan soo gudbiyo kheyraad, buugaag, ama qalab aan u arko inay waxtar u leeyihiin ardayda iyo xirfadleyda kale ee ku jira isla dariiqan.
+- **Kheyraad(resources) iyo Tilmaamo:** Intii karaankeyga ah, waxaan isku dayi doonaa inaan soo <font color="#fac08f">gudbiyo kheyraad, buugaag, ama qalab aan u arko inay waxtar u leeyihiin ardayda</font> iyo dadka  kale ee ku jira isla dariiqan.
     
-- **Madal Wadaag iyo Is-dhaafsi:** In kasta oo kani yahay bog shakhsiyeed, waxaan ku dhiirigelinayaa isdhaafsiga fikradaha. Su'aalahaaga, faallooyinkaaga, iyo aragtiyahaagu waa kuwo qiimo weyn leh.
+- **Madal Wadaag iyo Is-dhaafsi:** In kasta oo kani yahay bog shakhsiyeed, waxaan ku dhiirigelinayaa <font color="#fac08f">isdhaafsiga fikradaha. Su'aalahaaga, faallooyinkaaga, iyo aragtiyahaagu</font> waa kuwo qiimo weyn leh.
     
 
 <span style="background:#ff4d4f">Hamiga Guud:</span>
 
 Hadafkaygu waa inaan tusaale u noqdo bulshada, aqoontaydana aan la wadaago ardayda kale, xirfadleyda, iyo qof kasta oo xiiseeya horumarka ka socda dunidan casriga ah ee tiknoolajiyaddu hoggaaminayso. Waxaan aaminsanahay in aqoon-wadaaggu uu yahay *furaha koboca iyo horumarka.*
 
-Fadlan si xor ah u daraasee waxyaabaha ku jira bogga. Fikradihiina iyo aragtiyihiina waa muhiim, ee ha ilaawin inaad  igala soo xiriirtaan [dev.abdism@gmail.com].
+Fadlan si xor ah u daraasee waxyaabaha ku jira bogga. Fikradihiina iyo aragtiyihiina waa muhiim, ee ha ilaawin inaad  igala soo xiriirtaan LinkedIn profile kayga ah :- [[https://www.linkedin.com/in/abdishakursm\|https://www.linkedin.com/in/abdishakursm]]
 
 Waxaan rajaynayaa inaad ka heli doontaan wax idin anfaca oo idin dhiirigeliya.
 
