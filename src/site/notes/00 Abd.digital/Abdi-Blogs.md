@@ -6,7 +6,7 @@
 
 Ku soo dhawoow boggeygan shakhsiyeed! Waa farxad weyn iyo qiimo gaar ah inaad waqtigaaga qaaliga ah siisay booqashada meeshan oo aan ku wadaagi doono waxyaabo aniga ii xiiso geliya, kuna rajo weynahay inay adigana ku anfici doonaan.
 
-Magacaygu waa <font color="#f79646">Abdishakur</font>, waxaan ahay qof si weyn u daneeya isbeddellada xawliga ah ee ka socda dunida tiknoolajiyadda, gaar ahaan dhinacyada <font color="#ffff00">Data Science</font>, Garaadka Macmalka ah (<font color="#ffff00">Artificial Intelligence</font>)**, iyo <font color="#ffff00">Machine Learning</font>. Boggan waa madal aan ku soo gudbin doono geeddi-socodkayga barasho, fikradahayga, iyo wixii cusub ee aan ka barto ama aan kala kulmo saaxadan xiisaha badan.
+Magacaygu waa <font color="#f79646">Abdishakur</font>, waxaan ahay qof si weyn u daneeya isbeddellada xawliga ah ee ka socda dunida tiknoolajiyadda, gaar ahaan dhinacyada <font color="#ffff00">Data Science</font>, Garaadka Macmalka ah (<font color="#ffff00">Artificial Intelligence</font>), iyo <font color="#ffff00">Machine Learning</font>. Boggan waa madal aan ku soo gudbin doono geeddi-socodkayga barasho, fikradahayga, iyo wixii cusub ee aan ka barto ama aan kala kulmo saaxadan xiisaha badan.
 
 <span style="background:#ff4d4f">Maxaad Ka Filan Kartaa Boggan/Site-kan?</span>
 
