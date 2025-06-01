@@ -6,7 +6,16 @@
 Soo fiiri Discord [Serverka](https://discord.gg/Ba9SbYD2)
 
 Ku soo dhawoow boggeygan shakhsiyeed! Waa farxad weyn iyo qiimo gaar ah inaad waqtigaaga qaaliga ah siisay booqashada meeshan oo aan ku wadaagi doono waxyaabo aniga ii xiiso geliya, kuna rajo weynahay inay adigana ku anfici doonaan.
-![gif](https://media1.giphy.com/media/v1.Y2lkPTYxZTk4MDVjd212cDNxOG9xZHppZ29zOWJ4dG9zMWkzaXpwZ2tkeTlpeGMxNm40NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif)
+
+![gif](https://media4.giphy.com/media/v1.Y2lkPTYxZTk4MDVjMmdkNWI1ejRxM3lxN20zenVteDFtcGF0YWxteHg5YXRpeG5xb2xyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ABVK96HgZvWI9SBbXr/giphy.gif)
+
+
+
+
+
+
+
+
 
 
 
