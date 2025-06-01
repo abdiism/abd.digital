@@ -6,6 +6,7 @@
 Soo fiiri Discord [Serverka](https://discord.gg/Ba9SbYD2)
 
 Ku soo dhawoow boggeygan shakhsiyeed! Waa farxad weyn iyo qiimo gaar ah inaad waqtigaaga qaaliga ah siisay booqashada meeshan oo aan ku wadaagi doono waxyaabo aniga ii xiiso geliya, kuna rajo weynahay inay adigana ku anfici doonaan.
+![retro2_live(1).gif](/img/user/retro2_live(1).gif)
 
 Magacaygu waa <font color="#f79646">Abdishakur</font>, waxaan ahay qof si weyn u daneeya isbeddellada xawliga ah ee ka socda dunida tiknoolajiyadda, gaar ahaan dhinacyada <font color="#ffff00">Data Science</font>, Garaadka Macmalka ah (<font color="#ffff00">Artificial Intelligence</font>), iyo <font color="#ffff00">Machine Learning</font>. Boggan waa madal aan ku soo gudbin doono geeddi-socodkayga barasho, fikradahayga, iyo wixii cusub ee aan ka barto ama aan kala kulmo saaxadan xiisaha badan.
 
@@ -30,5 +31,3 @@ Waxaan rajaynayaa inaad ka heli doontaan wax idin anfaca oo idin dhiirigeliya.
 
 <font color="#fdeada">Waad ku mahadsantahy booqashadaada saaxib!</font>
 
-
-![Pasted image 20250502122346.png](/img/user/Pasted%20image%2020250502122346.png)
