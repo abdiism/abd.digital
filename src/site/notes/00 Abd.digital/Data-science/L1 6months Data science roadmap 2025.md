@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-abd-digital/data-science/l1-6months-data-science-roadmap-2025/","created":"2025-05-30T23:57:16.623+05:30"}
+{"dg-publish":true,"permalink":"/00-abd-digital/data-science/l1-6months-data-science-roadmap-2025/","created":"2025-05-30T23:57:16.623+05:30","updated":"2025-06-01T01:59:37.726+05:30"}
 ---
 
 
