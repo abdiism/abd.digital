@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-abd-digital/hordhac/","tags":["gardenEntry"],"created":"2025-05-14T10:38:45.884+05:30","updated":"2025-07-14T10:58:06.623+05:30"}
+{"dg-publish":true,"permalink":"/00-abd-digital/hordhac/","tags":["gardenEntry"],"created":"2025-05-14T10:38:45.884+05:30","updated":"2025-07-14T13:57:22.931+05:30"}
 ---
 
 <font color="#fdeada">**Soo Dhawaada Saaxibayaal!**</font>
@@ -7,8 +7,15 @@ Soo fiiri Discord [Serverka](https://discord.gg/mNsZVWhNYX)
 
 				Ku soo dhawoow Boggan ! 
 
-![gif](https://media4.giphy.com/media/v1.Y2lkPTYxZTk4MDVjOTVpZ3NhbTZoNGI1bWtxazkwMXkzZGl1Y3ZobHRoNmwzMTFubHQyMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif)
 
+```
+<div class="logo-wrapper">
+<input id="logo" type="checkbox">
+<label for="logo">
+<div class="logo"></div>
+</label>
+</div>
+```
 
 
 
