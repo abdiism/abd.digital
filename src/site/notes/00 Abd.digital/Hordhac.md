@@ -1,15 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/00-abd-digital/hordhac/","tags":["gardenEntry"],"created":"2025-05-14T10:38:45.884+05:30","updated":"2025-06-04T19:06:39.913+05:30"}
+{"dg-publish":true,"permalink":"/00-abd-digital/hordhac/","tags":["gardenEntry"],"created":"2025-05-14T10:38:45.884+05:30","updated":"2025-07-14T10:58:06.623+05:30"}
 ---
 
 <font color="#fdeada">**Soo Dhawaada Saaxibayaal!**</font>
-Soo fiiri Discord [Serverka](https://discord.gg/Ba9SbYD2)
+Soo fiiri Discord [Serverka](https://discord.gg/mNsZVWhNYX)
 
-Ku soo dhawoow boggeygan shakhsiyeed! Waa farxad weyn iyo qiimo gaar ah inaad waqtigaaga qaaliga ah siisay booqashada meeshan oo aan ku wadaagi doono waxyaabo aniga ii xiiso geliya, kuna rajo weynahay inay adigana ku anfici doonaan.
+				Ku soo dhawoow Boggan ! 
 
-![gif](https://media4.giphy.com/media/v1.Y2lkPTYxZTk4MDVjMmdkNWI1ejRxM3lxN20zenVteDFtcGF0YWxteHg5YXRpeG5xb2xyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ABVK96HgZvWI9SBbXr/giphy.gif)
-
-
+![gif](https://media4.giphy.com/media/v1.Y2lkPTYxZTk4MDVjOTVpZ3NhbTZoNGI1bWtxazkwMXkzZGl1Y3ZobHRoNmwzMTFubHQyMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
 
@@ -19,7 +17,13 @@ Ku soo dhawoow boggeygan shakhsiyeed! Waa farxad weyn iyo qiimo gaar ah inaad wa
 
 
 
-Magacaygu waa <font color="#f79646">Abdishakur</font>, waxaan ahay qof si weyn u daneeya isbeddellada xawliga ah ee ka socda dunida tiknoolajiyadda, gaar ahaan dhinacyada <font color="#ffff00">Data Science</font>, Garaadka Macmalka ah (<font color="#ffff00">Artificial Intelligence</font>), iyo <font color="#ffff00">Machine Learning</font>. Boggan waa madal aan ku soo gudbin doono geeddi-socodkayga barasho, fikradahayga, iyo wixii cusub ee aan ka barto ama aan kala kulmo saaxadan xiisaha badan.
+
+
+
+
+Magacaygu waa <font color="#f79646">Abdi*****</font>, waxaan aad u daneeya isbeddellada xawliga ah ee ka socda dunida tiknoolajiyadda, gaar ahaan dhinacyada <font color="#ffff00">Data Science</font>, Garaadka Macmalka ah (<font color="#ffff00">Artificial Intelligence</font>), iyo <font color="#ffff00">Machine Learning</font>. 
+
+Boggan waa madal aan ku soo gudbin doono geeddi-socodkayga barasho, fikradahayga, iyo wixii cusub ee aan ka barto ama aan kala kulmo saaxadan xiisaha badan.
 
 <span style="background:#ff4d4f">Maxaad Ka Filan Kartaa Boggan/Site-kan?</span>
 
@@ -36,9 +40,11 @@ Magacaygu waa <font color="#f79646">Abdishakur</font>, waxaan ahay qof si weyn u
 
 Hadafkaygu waa inaan tusaale u noqdo bulshada, aqoontaydana aan la wadaago ardayda kale, xirfadleyda, iyo qof kasta oo xiiseeya horumarka ka socda dunidan casriga ah ee tiknoolajiyaddu hoggaaminayso. Waxaan aaminsanahay in aqoon-wadaaggu uu yahay *furaha koboca iyo horumarka.*
 
-Fadlan si xor ah u daraasee waxyaabaha ku jira bogga. Fikradihiina iyo aragtiyihiina waa muhiim, ee ha ilaawin inaad  igala soo xiriirtaan LinkedIn profile kayga ah :- [LinkedIn](https://www.linkedin.com/in/abdishakursm) 
+Fadlan si xor leh u daraasee waxyaabaha ku jira bogga. Fikradihiina iyo aragtiyihiina waa muhiim, ee ha ilaawin inaad  igala soo xiriirtaan LinkedIn profile kayga ah :- [LinkedIn](https://www.linkedin.com/in/abdishakursm) 
 
 Waxaan rajaynayaa inaad ka heli doontaan wax idin anfaca oo idin dhiirigeliya.
 
-<font color="#fdeada">Waad ku mahadsantahy booqashadaada saaxib!</font>
+<font color="#fdeada">Waad ku mahadsantahy booqashadaada !</font>
+
+![gif](https://media0.giphy.com/media/v1.Y2lkPTYxZTk4MDVjem5idzFmbzhlM2o3djcxMDd4Y3BnZXk2NG1kenN1Nndld3VrdGh3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rPuuCF2SCiRl6/giphy.gif)
 
